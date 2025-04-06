@@ -1,0 +1,3 @@
+This is feature-1 content for conflict demo.
+Feature-1 new line for conflict.
+
